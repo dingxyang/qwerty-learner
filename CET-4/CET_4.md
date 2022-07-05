@@ -1,5 +1,10 @@
 一共131章节
 
+## 词库 
+https://github.com/Kaiyiwing/qwerty-learner/blob/master/src/assets/CET4_T.json
+https://github.com/kajweb/dict/blob/master/book/1521164643060_CET4_3.zip
+
+
 ## Charpter1
 
 + [ ]  cancel  取消， 撤销； 删去
